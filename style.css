@@ -164,6 +164,10 @@ ul {
     padding-left: 16px;
 }
 
+.project-link {
+    word-wrap: break-word;
+}
+
 @media only screen and (max-width: 750px) {
     .body-section {
         display: flex;
